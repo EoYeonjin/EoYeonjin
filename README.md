@@ -19,6 +19,7 @@
 </div>
 
 ---
+<br>
 
 <div align="center">
 
@@ -42,8 +43,7 @@
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-<br>
-
+<br><br>
 
 ---
 
